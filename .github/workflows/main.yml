@@ -1,4 +1,4 @@
-name: Hello-World 1
+name: Hello-World 2
 
 on:
    push:
@@ -14,4 +14,4 @@ jobs:
          uses: actions/checkout@v3
 
        - name: Say Hello to the World
-         run: echo "Hello, World! 1"
+         run: echo "Hello, World! 2"
